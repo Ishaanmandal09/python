@@ -25,3 +25,9 @@ b=48
 print(a>b)
 print(a<b)
 #logical operator
+e =True or False
+print(e)
+e =True and False
+print(e)
+e = not True
+print(e)
