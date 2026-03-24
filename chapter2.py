@@ -5,6 +5,7 @@
 3. Comparison operator: ==,!=,>,<,>=,<=
 4. Logical operator: and,or,not
 '''
+
 print(7+4)
 #7&4 is aoprands and + is a operator as 11 is known a result of the operation
 
@@ -16,8 +17,7 @@ print(c)
 #Assignment operator
 a= 4-2
 print(a)
-b=8
-b+=2
+b = 8 + 2
 print(b)
 #comparison operator
 a=65
